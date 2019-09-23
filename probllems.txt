@@ -1,0 +1,8 @@
+look on the functions single_post for the comments 
+specially look for the button input field line 142-166 
+the comment button not responding.
+
+
+
+look for php.ini file 
+search for errors : defaul is off write on to display errors
